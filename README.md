@@ -1,7 +1,7 @@
 # 🌌 Journeying through Code and Cosmos
 
 Hi, I'm Zephyr!  
-BS CS Student | Frontend Dev (React) | System Programmer (C, Rust) | AI to the Core | Linux Loyalist
+BS CS Student | Frontend Dev Vanilla JS and React | System Programmer (C, C++) | AI (learner) to the Core | Linux Loyalist
 
 ---
 
@@ -25,7 +25,7 @@ BS CS Student | Frontend Dev (React) | System Programmer (C, Rust) | AI to the C
 ## 🌐 Social Links
 
 - [LinkedIn](https://www.linkedin.com/in/amorzephyr)
-- X (Twitter): [@zephyramor](https://x.com/zephyramor)
+- X (Twitter): [@amorzephyr](https://x.com/amorzephyr)
 
 ---
 
@@ -37,7 +37,7 @@ BS CS Student | Frontend Dev (React) | System Programmer (C, Rust) | AI to the C
 
 ## 🛠️ Favorite Tech
 
-- **React** | **C** | **Rust** | **Linux** | **AI**
+- **React** | **C** | **C++** | **Linux** | **AI** | **Node**
 
 ---
 
