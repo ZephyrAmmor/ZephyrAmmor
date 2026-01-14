@@ -7,7 +7,11 @@ BS CS Student | Frontend Dev Vanilla JS and React | System Programmer (C, C++) |
 
 > 🌠 Journeying through code and cosmos, I’m not just building projects—I’m aiming for legacy.  
 > From React frontends to system programming depths, and AI to the heart of Linux, I explore everything—no subject left uncharted!
+---
 
+## Streak Counter
+
+![Github Stats] (https://github-stats-cpvptd3pi-amor-zephyrs-projects.vercel.app/api/stats?username=ZephyrAmmor)
 ---
 
 ## 🚀 About Me
