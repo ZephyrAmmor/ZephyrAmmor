@@ -13,7 +13,6 @@ BS CS Student | Frontend Dev Vanilla JS and React | System Programmer (C, C++) |
 
 ![Github Stats](https://github-stats-cpvptd3pi-amor-zephyrs-projects.vercel.app/api/stats?username=ZephyrAmmor)
 
----
 
 ## 🚀 About Me
 
