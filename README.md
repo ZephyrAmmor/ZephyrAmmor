@@ -5,7 +5,7 @@
    Building things in C++, JavaScript, and Java — from CLI tools to deployed web apps.
 
    ---
-
+   ![Github Stats](https://gh-stats-kohl.vercel.app/api/stats?username=ZephyrAmmor)
 
    ---
 
