@@ -10,14 +10,13 @@
    ---
 
    ## What I'm Working On
-
    | Project | Description | Stack |
-   |---|---|---|
-   | [Rainify](https://github.com/amor-projects/Rainify) | Weather app with a focus on visual design | JS · Vercel |
-   | [weather-cli](https://github.com/amor-projects/weather-cli) | CLI weather tool — static/live modes, 14-day forecasts | C++ · CMake |
-   | [literary-oasis](https://github.com/amor-projects/literary-oasis) | Book tracking app using Open Library API | React |
-   | [web-utilities](https://github.com/amor-projects/web-utilities) | Collection of small, single-purpose frontend tools | JS |
-   | [OOP-2nd-sem-JAVA](https://github.com/uni-course-work/OOP-2nd-sem-JAVA) | OOP coursework and practice in Java | Java |
+   | :--- | :--- | :--- |
+   | [**Rainify**](https://github.com/amor-projects/Rainify) | Weather app with a focus on visual design | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+   | [**weather-cli**](https://github.com/amor-projects/weather-cli) | CLI weather tool — static/live modes, 14-day forecasts | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
+   | [**literary-oasis**](https://github.com/amor-projects/literary-oasis) | Book tracking app using Open Library API | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+   | [**web-utilities**](https://github.com/amor-projects/web-utilities) | Collection of small, single-purpose frontend tools | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+   | [**OOP-JAVA**](https://github.com/uni-course-work/OOP-2nd-sem-JAVA) | OOP coursework and practice in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 
    ---
 
@@ -41,25 +40,25 @@
 
    **Currently Learning**
 
-   ![Data Structures](https://img.shields.io/badge/Data_Structures-In_Progress-orange?style=for-the-badge&logo=stackexchange&logoColor=white)
-   ![OOP](https://img.shields.io/badge/OOP-In_Progress-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![Discrete Math](https://img.shields.io/badge/Discrete_Math-In_Progress-orange?style=for-the-badge&logo=wolfram&logoColor=white)
-   ![React](https://img.shields.io/badge/React-In_Progress-orange?style=for-the-badge&logo=react&logoColor=black)
+  - ![Data Structures](https://img.shields.io/badge/Data_Structures-In_Progress-orange?style=for-the-badge&logo=stackexchange&logoColor=white)
+  - ![OOP](https://img.shields.io/badge/OOP-In_Progress-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![Discrete Math](https://img.shields.io/badge/Discrete_Math-In_Progress-orange?style=for-the-badge&logo=wolfram&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-In_Progress-orange?style=for-the-badge&logo=react&logoColor=black)
 
    ---
 
    ## Certifications and Courses
 
-   [![CS50x](https://img.shields.io/badge/CS50x-Harvard_University-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/certificates/3768dc0f-8ae8-490e-bc75-eef7091b43e3)
-   [![TOP](https://img.shields.io/badge/The_Odin_Project-In_Progess-orange?style=for-the-badge)](https://www.theodinproject.com/home)
+  - [![CS50x](https://img.shields.io/badge/CS50x-Harvard_University-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/certificates/3768dc0f-8ae8-490e-bc75-eef7091b43e3)
+  - [![TOP](https://img.shields.io/badge/The_Odin_Project-In_Progess-orange?style=for-the-badge)](https://www.theodinproject.com/home)
    
    ---
 
    ## Orgs
-   [![amor-projects](https://img.shields.io/badge/amor_projects-Personal_Projects-lightblue?style=for-the-badge)](https://github.com/amor-projects)
-   [![uni-course-work](https://img.shields.io/badge/uni_course_work-Acadamic_Work-lightblue?style=for-the-badge)](https://github.com/uni-course-work)
-   [![Amor-Self-learning](https://img.shields.io/badge/Amor_Self_learning-Courses_Projects-lightblue?style=for-the-badge)](https://github.com/Amor-Self-learning)
-   [![Amor-running-wild](https://img.shields.io/badge/Amor_running_wild-Experiments-lightblue?style=for-the-badge)](https://github.com/Amor-running-wild)
+  - [![amor-projects](https://img.shields.io/badge/amor_projects-Personal_Projects-lightblue?style=for-the-badge)](https://github.com/amor-projects)
+  - [![uni-course-work](https://img.shields.io/badge/uni_course_work-Acadamic_Work-lightblue?style=for-the-badge)](https://github.com/uni-course-work)
+  - [![Amor-Self-learning](https://img.shields.io/badge/Amor_Self_learning-Courses_Projects-lightblue?style=for-the-badge)](https://github.com/Amor-Self-learning)
+  - [![Amor-running-wild](https://img.shields.io/badge/Amor_running_wild-Experiments-lightblue?style=for-the-badge)](https://github.com/Amor-running-wild)
 
    ---
 
