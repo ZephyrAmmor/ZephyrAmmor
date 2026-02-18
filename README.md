@@ -6,7 +6,6 @@
 
    ---
 
-   ![Github Stats](https://gh-stats-kohl.vercel.app/api/stats?username=ZephyrAmmor)
 
    ---
 
@@ -49,16 +48,18 @@
 
    ---
 
-   ## Certifications
+   ## Certifications and Courses
 
    [![CS50x](https://img.shields.io/badge/CS50x-Harvard_University-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/certificates/3768dc0f-8ae8-490e-bc75-eef7091b43e3)
-
+   [![TOP](https://img.shields.io/badge/The_Odin_Project-In_Progess-orange?style=for-the-badge)](https://www.theodinproject.com/home)
+   
    ---
 
    ## Orgs
-
-   - [amor-projects](https://github.com/amor-projects) — personal projects
-   - [uni-course-work](https://github.com/uni-course-work) — academic work
+   [![amor-projects](https://img.shields.io/badge/amor_projects-Personal_Projects-lightblue?style=for-the-badge)](https://github.com/amor-projects)
+   [![uni-course-work](https://img.shields.io/badge/uni_course_work-Acadamic_Work-lightblue?style=for-the-badge)](https://github.com/uni-course-work)
+   [![Amor-Self-learning](https://img.shields.io/badge/Amor_Self_learning-Courses_Projects-lightblue?style=for-the-badge)](https://github.com/Amor-Self-learning)
+   [![Amor-running-wild](https://img.shields.io/badge/Amor_running_wild-Experiments-lightblue?style=for-the-badge)](https://github.com/Amor-running-wild)
 
    ---
 
