@@ -1,6 +1,7 @@
 # Abdul Samad
 
-   BS Computer Science · NUML Multan · 2nd Semester
+   BS Computer Science | NUML Multan | 2nd Semester
+   
    Building things in C++, JavaScript, and Java — from CLI tools to deployed web apps.
 
    ---
